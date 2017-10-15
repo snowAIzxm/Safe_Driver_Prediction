@@ -1,6 +1,6 @@
 小组说明 
 1）获取源码分支 首先登录github网站fork https://github.com/liuqiaoping7/Safe_Driver_Prediction.git。 
-   本地git clone https://github.com/自己的用户名/Safe_Driver_Prediction.git，或者直接C9以此建立工程。 
+   本地git clone https://github.com/自己的用户名/Safe_Driver_Prediction.git。 
 2）本地编辑，push代码到自己的fork分支 git add --all git commit -m "application for.." git push origin master 
 3）分支同步 
     (1).组员push request之前，需要先从组代码pull最新的代码并合并测试通过： 
